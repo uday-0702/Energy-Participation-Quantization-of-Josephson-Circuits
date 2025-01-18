@@ -1,7 +1,0 @@
-$begin 'ValidationCache'
-	$begin 'OneValidationResult'
-		Variation='jj_len=\'0.050000000000000003mm\' Lj=\'10nH\' Lj1=\'10nH\' offset=\'10mm\' pad_y=\'0.25mm\' pad_z=\'0.5mm\' radius=\'2mm\' radius1=\'1mm\' shiftport=\'25mm\' sub_xmax=\'1mm\' thickness=\'5mm\' thivkness=\'5mm\' trans_gap=\'0.01mm\' Xmax=\'30mm\' Ymax=\'50mm\' Zmax=\'30mm\''
-		Status=false
-		FileName='VI1D9B113641725109610102.tmp'
-	$end 'OneValidationResult'
-$end 'ValidationCache'
